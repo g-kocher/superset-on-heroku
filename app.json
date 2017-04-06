@@ -4,8 +4,7 @@
   "logo": "https://cdn.rawgit.com/airbnb/superset/master/superset/assets/images/superset_logo.png",
   "repository": "https://github.com/gustavodemari/superset-on-heroku",
   "addons": [
-    "heroku-postgresql:hobby-dev",
-    "papertrail:choklad"
+    "heroku-postgresql:hobby-dev"
   ],
   "buildpacks": [
     {
