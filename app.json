@@ -5,7 +5,7 @@
   "repository": "https://github.com/gustavodemari/superset-on-heroku",
   "addons": [
     "heroku-postgresql:hobby-dev",
-    "papertrail"
+    "papertrail:choklad"
   ],
   "buildpacks": [
     {
